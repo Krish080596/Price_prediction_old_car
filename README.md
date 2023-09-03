@@ -8,7 +8,7 @@ By developing this predictive pricing model,the project aims to enhance the car 
 make informed business decisions based on historical data and market trends.
 
 ### data dictionary:
-Car_Name	
+Car_Name
 Year: year to buy	
 Selling_Price	
 Present_Price	
