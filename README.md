@@ -9,11 +9,19 @@ make informed business decisions based on historical data and market trends.
 
 ### data dictionary:
 Car_Name
+
 Year: year to buy	
+
 Selling_Price	
+
 Present_Price	
+
 Kms_Driven	
+
 Fuel_Type	
+
 Seller_Type	
+
 Transmission	
+
 Owner: Number of previous owners
